@@ -3,8 +3,10 @@ layout: cv
 title: Zuo Jia
 email:
   url: hit.zzj.zuojia@gmail.com
+  text: hit.zzj.zuojia@gmail.com
 homepage:
   url: http://zuozuojia.github.io
+  text: http://zuozuojia.github.io
 ---
 
 # Zuo **Jia**
@@ -21,33 +23,15 @@ Supported arguments:
 
 ## Education
 
-### **Carnegie Mellon University** `2018.9 -`
+### **Harbin Institute of Technology** `2019.9 -`
 
 ```
-Pittsburgh, PA
+Weihai, China
 ```
 
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
-
-### **Columbia University** `2016.9 - 2018.5`
-
-```
-New York, NY
-```
-
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
-
-### **Dickinson College** `2013.9 - 2016.5`
-
-```
-Carlisle, PA
-```
-
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
-
+- B.S. in Measurement and Control Technology and Instruments
+- GPA: 81/100 3.15/4.0
+- IELTS: 6.0
 ## Publications
 
 ### [**reCode: A Lightweight Find-and-Replace Interaction in the IDE for Transforming Code by Example**]({{ page.homepage.url }}/assets/uist-21-recode.pdf)
