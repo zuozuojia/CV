@@ -79,7 +79,7 @@ Managed the research and development direction and progress of the machinery, el
 [[talk](https://youtu.be/_GQ8E7EMMws)]-->
 
 
-## **Research Experience**
+## **RESEARCH EXPERIENCE**
 **718 Smart Car Laboratory**`11/2019-09/2020`
 
 11/2019-09/2020 **Embedded Engineer**
@@ -170,7 +170,7 @@ Automatically identify and remove large light spots such as windows, and use PI 
 - _2nd Prize in the Final Round of the National College Students’ RoboMaster 2021 robotic Competition（The largest and most influential robot competition of China）_ `08/2021`
 - _2nd Prize in 2021 Higher Education Cup National Undergraduate Mathematical Contest in Modeling_ `11/2021`
 
-**Rgeginal-Level Awards:**
+**Regional-Level Awards:**
 - _1st Prize in the Northern Division of  the National College Students’ RoboMaster 2021 robotic Competition_ `08/2021`
 
 **Provincial-Level Awards:**
