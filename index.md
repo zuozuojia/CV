@@ -1,15 +1,13 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Zuo Jia
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  url: hit.zzj.zuojia@gmail.com
 homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: http://zuozuojia.github.io
 ---
 
-# Wode **Ni**
+# Zuo **Jia**
 
 <!--
 include contact information from the front matter
