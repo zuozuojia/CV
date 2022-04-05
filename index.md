@@ -2,15 +2,15 @@
 layout: cv
 title: Zuo Jia
 email:
-  url: hit.zzj.zuojia@gmail.com
+  url: mailto:hit.zzj.zuojia@gmail.com
   text: hit.zzj.zuojia@gmail.com
 homepage:
   url: http://zuozuojia.github.io
-  text: http://zuozuojia.github.io
+  text: zuozuojia.github.io
+phone: (+86)158 0635 2317
 ---
 
 # Zuo **Jia**
-
 <!--
 include contact information from the front matter
 Supported arguments:
@@ -21,127 +21,177 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## Education
+<!-- <div>
+  <div style="float: right;margin-right: 10px;">
+    <img src="./images/1.jpg" width="120px" height="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);">
+  </div>
+</div> -->
+## **EDUCATION**
 
-### **Harbin Institute of Technology** `2019.9 -`
+### **Harbin Institute of Technology** `09/2019-Present`
 
 ```
 Weihai, China
 ```
-
-- B.S. in Measurement and Control Technology and Instruments
-- GPA: 81/100 3.15/4.0
+- Degree: Bachelor of Engineering
+- Measurement and Control Technology and Instruments
+- GPA：81/100     3.15/4.0
 - IELTS: 6.0
-## Publications
 
-### [**reCode: A Lightweight Find-and-Replace Interaction in the IDE for Transforming Code by Example**]({{ page.homepage.url }}/assets/uist-21-recode.pdf)
-**Wode Ni**, Joshua Sunshine, Vu Le, Sumit Gulwani, and Titus Barik.<br> 
-_In Proceedings of the 34th ACM Symposium on User Interface Software and Technology (UIST'21)._ <br>
+## **LEADERSHIP EXPERIENCE**
+
+### **718 Smart Car Laboratory** <!-- (https://zuozuojia.github.io/posts/Introduction/)-->
+- **Manager** `09/2020-09/2021`
+<br> 
+
+Managed the laboratory with more than 60 members, and responsibled for the team's recruitment, promotion and operation;
+Organized 4 large or small competitions on campus;
+Organized  popular science exhibition of and scientific and technological innovation training, covering a total of more than 1,800 students;
+For the first time, transformed the laboratory from only electronic control members to a talent training base compatible with vision and machinery members. <br>
+ <!-- 
 [[PDF]({{ page.homepage.url }}/assets/uist-21-recode.pdf)]
 [[BibTeX]({{ page.homepage.url }}/assets/uist-21-recode.txt)]
 [[video preview](https://youtu.be/fMdHK9UrgQ4)]
-[[talk](https://youtu.be/_GQ8E7EMMws)]
+[[talk](https://youtu.be/_GQ8E7EMMws)]-->
+
+### **HERO Competitive Robot Team** <!-- (https://zuozuojia.github.io/posts/Introduction/)`2020/9 – 至今`-->
+- **Vice Leader** `01/2021-08/2021`
+<br> 
+
+Project management in charge of project progress and division of labor; 
+Accomplished embedded and algorithm work;
+Participated in mechanical design and drawing review. <br>
+ <!-- 
+[[PDF]({{ page.homepage.url }}/assets/uist-21-recode.pdf)]
+[[BibTeX]({{ page.homepage.url }}/assets/uist-21-recode.txt)]
+[[video preview](https://youtu.be/fMdHK9UrgQ4)]
+[[talk](https://youtu.be/_GQ8E7EMMws)]-->
+
+- **Team Leader** `09/2021-present`
+<br> 
+
+Managed robot team of  more than 40 people and led the team to participate in RoboMaster competition;
+Managed the research and development direction and progress of the machinery, electronic control, vision, and operations. <br>
+ <!-- 
+[[PDF]({{ page.homepage.url }}/assets/uist-21-recode.pdf)]
+[[BibTeX]({{ page.homepage.url }}/assets/uist-21-recode.txt)]
+[[video preview](https://youtu.be/fMdHK9UrgQ4)]
+[[talk](https://youtu.be/_GQ8E7EMMws)]-->
 
 
-### [**Penrose: From Mathematical Notation to Beautiful Diagrams**](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
-Katherine Ye, **Wode Ni**, Max Krieger, Dor Ma'ayan, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> 
-_ACM Transactions on Graphics (SIGGRAPH'20)._<br>
+## **Research Experience**
+**718 Smart Car Laboratory**`11/2019-09/2020`
+
+11/2019-09/2020 **Embedded Engineer**
+<br> 
+- Developed an electric self-balancing two-wheeler. 
+
+_National College Students Smart Car Competition_
+
+Accomplished a balancing and motion algorithm based on PID cascade controller to control the uprightness and movement of the two-wheeler.
+Accomplished an electromagnetic tracking algorithm based on PID controller.
+Accomplished a tracking algorithm adapted to complex road sections (such as roundabouts, sharp turns, ramps, etc.). 
+Accomplished an attitude algorithm based on Kalman filter using six axis attitude sensor.
+
+- Developed an electronic smart watch.
+
+_National Undergraduates Electronic Design Competition_
+
+Show informations like date and time.
+Use OLED and buttons to achieve human-device interaction, implementing menu algorithm.
+Measure body temperature and automatically refresh and draw a line graph of temperature over time.
+Light the watch screen automatically when lift the wrist and detect the sleep posture based on anti-bright screen algorithm.
+Detect movement of people and record steps.
+<br>
+ <!-- 
 [[PDF](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)]
 [[BibTeX]({{ page.homepage.url }}/assets/siggraph20-penrose.txt)]
 [[www](http://penrose.ink/siggraph20.html)]
-[[repo](https://github.com/penrose/penrose)]
+[[repo](https://github.com/penrose/penrose)]-->
 
-### [**How Domain Experts Create Conceptual Diagrams and Implications for Tool Design**]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)
+**HERO Competitive Robot Team** `09/2020 – Present`
 
-Dor Ma'ayan\*, **Wode Ni\***, Katherine Ye, Chinmay Kulkarni, and Joshua Sunshine.<br>
-<i class="fas fa-award"></i> <strong>Best Paper Honourable Mention</strong><br>
-_In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI'20)._<br>
-[[PDF]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.txt)]
+_RoboMaster High School Series Competition_
 
-### [**Defining Visual Narratives for Mathematics Declaratively**](http://2019.plateau-workshop.org/assets/papers-2019/9.pdf)
+09/2020 – Present **Embedded Engineer**
+<br> 
+- Designed and developed independently the electronic control software architecture based on RT-Thread.
 
-Max Krieger, **Wode Ni**, and Joshua Sunshine.<br>
-_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
-[[PDF](http://2019.plateau-workshop.org/assets/papers-2019/9.pdf)]
-[[slides]({{ page.homepage.url }}/assets/plateau-19-presentation.pdf)]
+Two-axis PTZ control based on cascade PID, the data source can be switched smoothly by IMU and magnetic encoder.
+Fix errors in peripheral driver codes such as CAN, PWM, etc. in RT-Thread. 
+Accomplished temperature controller algorithm based on gyroscope with special PID.
+Developed algorithms such as remote control of robot bombing and movement. 
+Accomplished vision-based automatic targeting algorithm.
 
-### [**Designing Declarative Language Tutorials: a Guided and Individualized Approach**](http://2019.plateau-workshop.org/assets/papers-2019/2.pdf)
+- Self-developed motor intelligent control board software based on RT-Thread.
 
-Anael Kuperwajs Cohen, **Wode Ni**, and Joshua Sunshine.<br>
-_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
-[[PDF](http://2019.plateau-workshop.org/assets/papers-2019/2.pdf)]
-[[slides]({{ page.homepage.url }}/assets/plateau-19-presentation.pdf)]
+Design a master-slave communication protocol based on CAN communication, including setting commands, controling commands, reading commands, error handling and its feedback messages.
+Achieved one command from the host controlling the automatic initial position calibration of the motor, automatic angle/speed closed loop, etc.. 
+Automatic processing mechanism of master and slave machine offline, motor locked rotor, and offline alarm.
+<br>
 
----
+01/2021 – 04/2021	**Vision/Algorithm Engineer**
+<br> 
+- Accomplished anti-jamming Adaptive Exposure Algorithm
 
-### [**Substance and Style: domain-specific languages for mathematical diagrams**](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
+Automatically identify and remove large light spots such as windows, and use PI controller to achieve automatic exposure for later target detection.
+<br>
+ <!-- 
+[[PDF](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)]
+[[BibTeX]({{ page.homepage.url }}/assets/siggraph20-penrose.txt)]
+[[www](http://penrose.ink/siggraph20.html)]
+[[repo](https://github.com/penrose/penrose)]-->
 
-**Wode Ni\***, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> _Domain-Specific Language Design and Implementation (DSLDI 2017), co-located with SPLASH._ <br>
-[[PDF]({{ page.homepage.url }}/assets/dsldi.pdf)]
-[[slides]({{ page.homepage.url }}/assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
+**Mathematical Modeling Contest（CUMCM）** `09/2020-Present`
 
-### [**Whiteboard Scanning Using Super-Resolution**](http://scholar.dickinson.edu/student_honors/221/)
-
-**Wode Ni**.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF]({{ page.homepage.url }}/assets/superres.pdf)]
-
-## Experience
-
-### **Microsoft Research** `2020.5 - 2020.8`
-
-_Research Intern_<br>
-Worked with the [PROSE](https://www.microsoft.com/en-us/research/group/prose/) team (mentored by [Titus Barik](https://www.barik.net/)) on improving developer productivity in Visual Studio Code. I interviewed developers to elicit their needs for code transformation tools in editors. Inspired by the empirical data and relevant work in program synthesis, I designed **reCode**, an interaction model for rapidly performing complex code transformation using the familiar find-and-replace experience.
-
-### **Carnegie Mellon University, Research Experiences for Undergraduate** `2017.5 - 2017.8`
-
-_Research Assistant_<br>
-**Penrose** is a system that automatically visualizes mathematics using two domain-specific languages: **Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
-
-### **Columbia University, Computer Graphics and User Interfaces Lab** `2017.1 - 2017.5`
-
-_Research Assistant_<br>
-Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augumented Reality** project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
-
-## Mentoring
-
-[Hwei-Shin Harriman](https://hsharriman.github.io/) (Olin College of Engineering, independent research) `CMU, 2021 - Now` <br>
-[Helena Yang](https://heleaf.me/) (CMU, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2021` <br>
-[Max Krieger](https://a9.io/) (CMU, independent research & [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2018 - 2021` <br>
-[Courtney Miller](https://courtney-e-miller.github.io/) (New College of Florida, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
-[Anael Kuperwajs Cohen](https://anaelkuperwajs.github.io/) (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
-
----
-
-## Honors & Awards
-
-CHI'20 Best Paper Honourable Mention Award `CMU, 2020` <br>
-Phi Beta Kappa `Dickinson, 2018` <br>
-Excellence in Computer Science Award `Columbia, 2018` <br>
-Travel Award PL Mentoring Workshop (PLMW) `SPLASH, 2018` <br>
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honors `Dickinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society `Dickinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `Dickinson, 2013` <br>
-
-## Teaching
-
-Teaching Assistant, **Crafting Software (17-450/17-950)** `CMU, 2022` <br>
-Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
-Teaching Assistant, **Introduction to Java II (COMP 132)** `Dickinson, 2016` <br>
-Peer Tutor, **Data Structures and Problem Solving (COMP 232)** `Dickinson, 2016` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
+**Team leader**
+<br> 
+- Used Python and MatheMatica to complete model building, random map generation, shortest path algorithm and visualization；
+- Used Python to complete TOPSIS comprehensive analysis, gray correlation analysis, and use Networkx to visualize node influence；
+- Used Python and SPSS to explore ethanol catalysis based on multivariate ANOVA, Spearman correlation coefficient analysis, MLP；and optimized the process conditions for the preparation of C4 Olefins by chemical coupling.
+- Modeled and studied the factors that affect fairness in the world and accomplished the paper writing.
+<br>
+ <!-- 
+[[PDF](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)]
+[[BibTeX]({{ page.homepage.url }}/assets/siggraph20-penrose.txt)]
+[[www](http://penrose.ink/siggraph20.html)]
+[[repo](https://github.com/penrose/penrose)]-->
 
 
-## Service
 
-Sub-reviewer `OOPSLA'21, VL/HCC'21` <br>
-Reviewer `CHI'21, CHI'22, SIGGRAPH'22` <br>
-Research Experiences for Undergraduates in Software Engineering Admission Committee `CMU, 2019 - 2021` <br>
+## **PROFESSIONAL SKILLS**
+- Programming language: C > Python > C++ > Assembly > Verilog
+- Platform: STM32, MSP430, STC, LPC, Linux
+- Software: Skilled with Keil, IAR, LabView, SPSS; familiar with MATLAB, Webots, Solidworks
+- Embedded Real-Time Systems (RTOS): RT-Thread
+
+## **HONORS**
+**National-Level Awards:**
+- _2nd Prize in the Final Round of the National College Students’ RoboMaster 2021 robotic Competition（The largest and most influential robot competition of China）_ `08/2021`
+- _2nd Prize in 2021 Higher Education Cup National Undergraduate Mathematical Contest in Modeling_ `11/2021`
+
+**Rgeginal-Level Awards:**
+- _1st Prize in the Northern Division of  the National College Students’ RoboMaster 2021 robotic Competition_ `08/2021`
+
+**Provincial-Level Awards:**
+- _1st Prize in the 11th Shandong University Student Science and Technology Festival - Science and Technology Museum Exhibit Creativity and Production Design Competition_ `11/2019`
+- _2nd Prize in the National College Students Mathematical Contest in Modeling, Shandong Division_ `10/2020`
+- _2nd Prize in the Shandong Division of National Undergraduate Electronic Design Competition_ `10/2020`
+- _2nd Prize in the Shandong Division of National College Student Smart Car Competition_ `10/2020`
+
+**Other Honors and Scholarships:**
+- _Outstanding individual in science and technology, issued by School of Information Science and Engineering, Harbin Institute of Technology (Weihai)_ `12/2020`
+- _Science and Technology Innovation Scholarship, sponored by  Harbin Institute of Technology (Weihai), 2019-2020 Spring Semester_ `06/2020`
+- _Science and Technology Innovation Scholarship, sponored by  Harbin Institute of Technology (Weihai), 2019-2020 Fall Semester_ `10/2020`
+- _Second-class Scholarship,  sponored by Harbin Institute of Technology (Weihai), 2020-2021 Spring Semester_ `05/2021`
+- _Outstanding Student Leader, rewared by Harbin Institute of Technology (Weihai) 2019-2020_ `12/2020`
+
+## **STUDENTS’ CLUB ACTIVITIES**
+- Commissary of Class 1902805 in charge of studies
+- Commissary of Class 1902202 in charge of students’ psychological status
+- School chorus member
+- Member of the Science and Technology Innovation Center of the Student Union of School
+- Teaching Assistant of  Advanced Electronic Technology Course, 2019- 2020 Fall semester
 
 <!-- ### Footer
 
