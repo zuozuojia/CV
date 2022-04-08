@@ -35,7 +35,7 @@ Weihai, China
 ```
 - Degree: Bachelor of Engineering
 - Measurement and Control Technology and Instruments
-- GPA：81/100     3.15/4.0
+- GPA：80.71/100     3.23/4.0
 - IELTS: 6.0
 
 ## **LEADERSHIP EXPERIENCE**
