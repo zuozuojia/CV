@@ -34,13 +34,8 @@ Supported arguments:
 Weihai, China
 ```
 - Degree: Bachelor of Engineering
-<<<<<<< HEAD
 - Major: Measurement and Control Technology and Instruments
 - GPA：80.71/100     3.23/4.00
-=======
-- Measurement and Control Technology and Instruments
-- GPA：80.71/100     3.23/4.0
->>>>>>> 98577603f7d28ac26581e19a18fe082f102adfcc
 - IELTS: 6.0
 
 ## **LEADERSHIP EXPERIENCE**
