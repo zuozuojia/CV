@@ -28,7 +28,7 @@ Supported arguments:
 </div> -->
 ## **EDUCATION**
 
-### **Harbin Institute of Technology** `09/2019-Present`
+### **Harbin Institute of Technology (HIT)** `09/2019-Present`
 
 ```
 Weihai, China
