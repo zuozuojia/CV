@@ -34,8 +34,8 @@ Supported arguments:
 Weihai, China
 ```
 - Degree: Bachelor of Engineering
-- Measurement and Control Technology and Instruments
-- GPA：81/100     3.15/4.0
+- Major: Measurement and Control Technology and Instruments
+- GPA：80.71/100     3.23/4.00
 - IELTS: 6.0
 
 ## **LEADERSHIP EXPERIENCE**
@@ -44,10 +44,11 @@ Weihai, China
 - **Manager** `09/2020-09/2021`
 <br> 
 
-Managed the laboratory with more than 60 members, and responsibled for the team's recruitment, promotion and operation;
-Organized 4 large or small competitions on campus;
-Organized  popular science exhibition of and scientific and technological innovation training, covering a total of more than 1,800 students;
-For the first time, transformed the laboratory from only electronic control members to a talent training base compatible with vision and machinery members. <br>
+The laboratory is known as the cradle of scientific innovation in the school. It uses the Intelligent Car Race as a platform to systematically train freshmen and provide talents for various high-level laboratories, reaching more than 1,000 students every year.  
+
+During her tenure：
+Expanded the laboratory technology system from the electronic control-based type into a highly cross-integrated type of electronic control, computer vision, and structural design.
+<br>
  <!-- 
 [[PDF]({{ page.homepage.url }}/assets/uist-21-recode.pdf)]
 [[BibTeX]({{ page.homepage.url }}/assets/uist-21-recode.txt)]
@@ -55,12 +56,18 @@ For the first time, transformed the laboratory from only electronic control memb
 [[talk](https://youtu.be/_GQ8E7EMMws)]-->
 
 ### **HERO Competitive Robot Team** <!-- (https://zuozuojia.github.io/posts/Introduction/)`2020/9 – 至今`-->
-- **Vice Leader** `01/2021-08/2021`
+- **Vice Leader & Project Manager** `01/2021-08/2021`
 <br> 
 
-Project management in charge of project progress and division of labor; 
-Accomplished embedded and algorithm work;
-Participated in mechanical design and drawing review. <br>
+In ROBOMASTER 2021, the most influential robot competition for college students in China:
+
+Took over the job of vice leader in 4 months;
+
+Coordinated with the Leader to manage the project development;
+
+Completed the embedded algorithm work;
+
+Accomplished the systematic reconstruction of the infantry hero robot code and the optimization of the PTZ control algorithm.<br>
  <!-- 
 [[PDF]({{ page.homepage.url }}/assets/uist-21-recode.pdf)]
 [[BibTeX]({{ page.homepage.url }}/assets/uist-21-recode.txt)]
@@ -70,13 +77,28 @@ Participated in mechanical design and drawing review. <br>
 - **Team Leader** `09/2021-present`
 <br> 
 
-Managed robot team of  more than 40 people and led the team to participate in RoboMaster competition;
-Managed the research and development direction and progress of the machinery, electronic control, vision, and operations. <br>
+Promoted as the team leader in the new season of ROBOMASTER 2022:
+In charge of the electronic control technology group;
+
+Reorganizd the team from the original "122 type" (1 brand, 2 teams, 2 projects) to "112 type" (1 brand, 1 team, 2 projects);
+
+Optimized resource allocation and technical collaboration;
+
+Developed and adopted a set of team-friendly project management processes. <br>
  <!-- 
 [[PDF]({{ page.homepage.url }}/assets/uist-21-recode.pdf)]
 [[BibTeX]({{ page.homepage.url }}/assets/uist-21-recode.txt)]
 [[video preview](https://youtu.be/fMdHK9UrgQ4)]
 [[talk](https://youtu.be/_GQ8E7EMMws)]-->
+
+### **Contemporary Undergraduate Mathematical Contest in Modeling** <!-- (https://zuozuojia.github.io/posts/Introduction/)`2020/9 – 至今`-->
+- **Team Leader** `09/2020-11/2021`
+
+Led a team in the competition for 4 times:
+
+Acquired a fresh insight of mathematics to support the scientific and technological research;
+
+Accumulated experiences in literature reviews and academic writings.
 
 
 ## **RESEARCH EXPERIENCE**
@@ -117,17 +139,21 @@ _RoboMaster High School Series Competition_
 <br> 
 - Designed and developed independently the electronic control software architecture based on RT-Thread.
 
-Two-axis PTZ control based on cascade PID, the data source can be switched smoothly by IMU and magnetic encoder.
-Fix errors in peripheral driver codes such as CAN, PWM, etc. in RT-Thread. 
-Accomplished temperature controller algorithm based on gyroscope with special PID.
-Developed algorithms such as remote control of robot bombing and movement. 
-Accomplished vision-based automatic targeting algorithm.
+Code design and writing of the robot's electronically controlled PTZ, including:
 
-- Self-developed motor intelligent control board software based on RT-Thread.
+Two-axis PTZ control based on cascade PID;
 
-Design a master-slave communication protocol based on CAN communication, including setting commands, controling commands, reading commands, error handling and its feedback messages.
-Achieved one command from the host controlling the automatic initial position calibration of the motor, automatic angle/speed closed loop, etc.. 
-Automatic processing mechanism of master and slave machine offline, motor locked rotor, and offline alarm.
+Temperature Controller Algorithm Based on Special PID Gyroscope;
+
+Algorithms for remote control of robot bombing, movement, vision-based automatic aiming and attacking target,etc.;
+
+Fix errors in peripheral driver codes such as CAN, PWM, etc. in RT-Thread.
+
+- Developed motor intelligent control board software:
+
+Achieved the automatic initial position calibration of the motor, angle/speed closed loop, etc.;
+
+Automatic processing mechanism of master and slave machine disconnection, motor stall and disconnection alarm, etc.;
 <br>
 
 01/2021 – 04/2021	**Vision/Algorithm Engineer**
@@ -177,14 +203,13 @@ Automatically identify and remove large light spots such as windows, and use PI 
 - _1st Prize in the 11th Shandong University Student Science and Technology Festival - Science and Technology Museum Exhibit Creativity and Production Design Competition_ `11/2019`
 - _2nd Prize in the National College Students Mathematical Contest in Modeling, Shandong Division_ `10/2020`
 - _2nd Prize in the Shandong Division of National Undergraduate Electronic Design Competition_ `10/2020`
-- _2nd Prize in the Shandong Division of National College Student Smart Car Competition_ `10/2020`
 
 **Other Honors and Scholarships:**
-- _Outstanding individual in science and technology, issued by School of Information Science and Engineering, Harbin Institute of Technology (Weihai)_ `12/2020`
 - _Science and Technology Innovation Scholarship, sponored by  Harbin Institute of Technology (Weihai), 2019-2020 Spring Semester_ `06/2020`
 - _Science and Technology Innovation Scholarship, sponored by  Harbin Institute of Technology (Weihai), 2019-2020 Fall Semester_ `10/2020`
-- _Second-class Scholarship,  sponored by Harbin Institute of Technology (Weihai), 2020-2021 Spring Semester_ `05/2021`
 - _Outstanding Student Leader, rewared by Harbin Institute of Technology (Weihai) 2019-2020_ `12/2020`
+- _Outstanding individual in science and technology, issued by School of Information Science and Engineering, Harbin Institute of Technology (Weihai)_ `12/2020`
+- _Second-class Scholarship,  sponored by Harbin Institute of Technology (Weihai), 2020-2021 Spring Semester_ `05/2021`
 
 ## **STUDENTS’ CLUB ACTIVITIES**
 - Commissary of Class 1902805 in charge of studies
@@ -192,6 +217,17 @@ Automatically identify and remove large light spots such as windows, and use PI 
 - School chorus member
 - Member of the Science and Technology Innovation Center of the Student Union of School
 - Teaching Assistant of  Advanced Electronic Technology Course, 2019- 2020 Fall semester
+
+
+## **RELATED COURSES**
+- Analogue Electronic Technology Experiment (94)
+- Advanced Project-driven Electronic Technology Experiment (93)
+- College Computer (91)
+- C Language Programming (96)
+- Error Theory and Data Processing (95)
+- MCU Application Expansion Experiment (95)
+- Single-chip Microcomputer Principle and Interface Technology (95)
+- Virtual Instrument Software Design (95)
 
 <!-- ### Footer
 
