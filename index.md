@@ -35,7 +35,7 @@ Weihai, China
 ```
 - Degree: Bachelor of Engineering
 - Major: Measurement and Control Technology and Instruments
-- GPA：80.71/100     3.23/4.00
+- GPA：83.89/100
 - IELTS: 6.0
 
 ## **LEADERSHIP EXPERIENCE**
@@ -197,7 +197,8 @@ Automatically identify and remove large light spots such as windows, and use PI 
 - _2nd Prize in 2021 Higher Education Cup National Undergraduate Mathematical Contest in Modeling_ `11/2021`
 
 **Regional-Level Awards:**
-- _1st Prize in the Northern Division of  the National College Students’ RoboMaster 2021 robotic Competition_ `08/2021`
+- _1st Prize in the Eastern Division of the National College Students’ RoboMaster 2022 robotic Competition_ `07/2022`
+- _1st Prize in the Northern Division of the National College Students’ RoboMaster 2021 robotic Competition_ `08/2021`
 
 **Provincial-Level Awards:**
 - _1st Prize in the 11th Shandong University Student Science and Technology Festival - Science and Technology Museum Exhibit Creativity and Production Design Competition_ `11/2019`
@@ -228,6 +229,9 @@ Automatically identify and remove large light spots such as windows, and use PI 
 - MCU Application Expansion Experiment (95)
 - Single-chip Microcomputer Principle and Interface Technology (95)
 - Virtual Instrument Software Design (95)
+- Electronic Technology Practice (96)
+- Automation Measurement Technology (92)
+- Fiber-Optic Communications Technology (92)
 
 <!-- ### Footer
 
